@@ -22,6 +22,6 @@ SU_USERROLE="admin"
 # Default developer details
 DEV_NAME="del_developer"
 
-ASSISTANT_WORKSPACE_ID='ac1399d2-ed9f-4e7d-8b9a-b6bedde37325'
+ASSISTANT_WORKSPACE_ID=''
 ASSISTANT_URL='https://api.au-syd.assistant.watson.cloud.ibm.com/'
-ASSISTANT_IAM_APIKEY='dNKhxcXesXFQ8IQQxMo_cTJ_HMkneJxfqVrChxgwudS7'
+ASSISTANT_IAM_APIKEY=''
